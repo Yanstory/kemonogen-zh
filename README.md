@@ -2,7 +2,9 @@
 
 原案：[aratama](https://github.com/aratama "点击进入原作者的GitHub主页") / [GitHub项目页](https://github.com/aratama/kemonogen "点击进入GitHub项目页")，汉化 βy [小炎](https://github.com/Yanstory "点击进入小炎的GitHub主页")
 
-演示页：[原案[日本語]](https://aratama.github.io/kemonogen/) / 中文（建造中）
+演示页：[原案[日本語]](https://aratama.github.io/kemonogen/) / **[中文](https://yanstory.github.io/kemonogen-zh/)**
+
+**（↑中文页面在这里所以特地再打一行）**
 
 ### 下载至本地使用 ###
 
